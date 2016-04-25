@@ -1,5 +1,5 @@
 # Site settings
-title: Woody Blog
+title: Woody's Blog
 SEOTitle: 吴迪的博客 | Woody Blog
 header-img: img/home-bg.jpg
 email: nirvanawoody@gmail.com
@@ -59,10 +59,10 @@ duoshuo_share: true                    # set to false if you want to use Comment
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 31a0e0414d95af342f972030cdbe1a11
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
