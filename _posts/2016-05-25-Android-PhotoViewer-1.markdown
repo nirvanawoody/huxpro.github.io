@@ -2,7 +2,7 @@
 layout:     post
 title:      "高仿朋友圈照片查看器（一）"
 subtitle:   "ImageView从CenterCrop平滑过渡到fitCenter"
-date:       2016-05-05
+date:       2016-05-25
 author:     "Woody"
 catalog: true
 tags:
@@ -330,5 +330,7 @@ public class SmoothImageView extends PhotoView {
 
 }
 ```
+
+[代码地址](https://github.com/nirvanawoody/WeixinPhotoViewer)
 
 
