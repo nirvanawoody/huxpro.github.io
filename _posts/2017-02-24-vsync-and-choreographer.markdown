@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Android Choreographer和VSYNC机制"
-date:       2016-05-25
+date:       2017-02-24
 author:     "Woody"
 catalog: true
 tags:
